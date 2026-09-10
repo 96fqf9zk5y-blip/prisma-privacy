@@ -52,6 +52,11 @@ und speichert den daraus folgenden Freischaltstatus ebenfalls auf dem Gerät.
 
 ## Werbung und Einwilligung
 
+Vor dem Laden von Werbung fragt die App, ob du mindestens 18 Jahre alt bist.
+Gespeichert wird ausschließlich deine Auswahl auf dem Gerät, kein Geburtsdatum.
+Bei „unter 18“ oder ohne Angabe werden keine Anfragen an AdMob oder UMP
+gesendet. Du kannst die Auswahl in den Einstellungen ändern.
+
 Die kostenlose Version verwendet Google AdMob. Du kannst freiwillig ein
 Werbevideo für zusätzliche Hinweise ansehen. Gelegentlich erscheint Werbung
 nach einem abgeschlossenen Rätsel. Mit freigeschalteter Vollversion fordert
