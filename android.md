@@ -4,6 +4,8 @@ title: Datenschutz – Prisma Daily für Android
 
 # Datenschutzerklärung für Prisma Daily auf Android
 
+[English version](https://96fqf9zk5y-blip.github.io/prisma-privacy/android-en.html)
+
 Stand: 10. September 2026
 
 Diese Erklärung betrifft die Android-App **Prisma Daily** (Paketname
@@ -50,6 +52,12 @@ Abrechnungsunterlagen können auch nach einer Deinstallation aufbewahrt werden.
 Falls dir ein Freischaltcode bereitgestellt wurde, prüft die App ihn lokal
 und speichert den daraus folgenden Freischaltstatus ebenfalls auf dem Gerät.
 
+Die Google-Play-Billingbibliothek verarbeitet außerdem technische Diagnosedaten
+für den Betrieb und die Fehleranalyse der Kauf- und Wiederherstellungsfunktionen
+und übermittelt diese an Google. Dies kann bereits beim Start der App geschehen,
+unabhängig davon, ob du Werbung zulässt oder einen Kauf tätigst. Die lokale
+Altersauswahl schaltet diese Kaufverwaltung nicht ab.
+
 ## Werbung und Einwilligung
 
 Vor dem Laden von Werbung fragt die App, ob du mindestens 18 Jahre alt bist.
@@ -71,6 +79,8 @@ App kannst du über „Datenschutzoptionen für Werbung“ die bereitgestellten
 Auswahlmöglichkeiten erneut öffnen und eine Einwilligung widerrufen. Der
 Widerruf gilt für die Zukunft. Die kostenlosen Spielfunktionen sind auch ohne
 Einwilligung in personalisierte Werbung nutzbar.
+Bei erwachsenen Nutzern kann UMP die bestehenden Datenschutzeinstellungen
+auch nach der Freischaltung der werbefreien Vollversion aktualisieren.
 
 Das Google-Werbe-SDK verarbeitet abhängig von Einwilligung und Konfiguration
 IP-Adresse (auch zur ungefähren Standortbestimmung), Gerätekennungen wie die
@@ -92,8 +102,9 @@ und [Datenverarbeitung im Google Mobile Ads SDK](https://developers.google.com/a
 Die Verarbeitung für angeforderte Spielfunktionen, Kauf und
 Wiederherstellung dient der Vertragserfüllung (Art. 6 Abs. 1 lit. b DSGVO).
 Einwilligungspflichtige Werbezwecke beruhen auf deiner Einwilligung
-(Art. 6 Abs. 1 lit. a DSGVO). Soweit rechtlich zulässig, dient notwendige
-Sicherheitsverarbeitung unserem berechtigten Interesse an einem sicheren,
+(Art. 6 Abs. 1 lit. a DSGVO). Soweit rechtlich zulässig, dient die notwendige
+technische Diagnose- und Sicherheitsverarbeitung unserem berechtigten Interesse
+an einem stabilen, sicheren,
 missbrauchsfreien Betrieb (Art. 6 Abs. 1 lit. f DSGVO). Gesetzliche
 Aufbewahrungspflichten beruhen auf Art. 6 Abs. 1 lit. c DSGVO.
 Für das Speichern oder Auslesen von Informationen auf deinem Gerät gilt
